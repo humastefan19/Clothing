@@ -1,0 +1,121 @@
+@keyframes meniu{
+    0%{
+        background-color: black;
+    }
+    100%{
+        background-color: grey;
+    }
+}
+body{
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color:rgba(128, 128, 128, .3);
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+div.firstDIV{
+    padding: 3%;
+}
+h1{
+    margin:0;
+    padding: 0;
+    text-align:center;
+}
+h1 a:hover
+{
+    color:grey;
+}
+nav.menu{
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    height:5%;
+}
+li a.menu
+{
+    color:white;
+    text-align: center;
+}
+li a:hover.menu{
+    background-color: grey;   
+    animation: meniu 1s linear ;
+    
+}
+ul.menu{
+    padding:0;
+    width: 100%;
+    background-color: black;
+}
+ul.submenu{
+    padding: 0;
+}
+ul.menu>li.menu , ul.menu>li.menu>ul.submenu>li.submenu{
+    float:left;
+    font-size:1em;
+    height:2.9rem;
+    list-style-type:none;
+    overflow:hidden;
+    padding:0;
+    margin:0;
+    background-color: black;
+    
+}
+ul.menu>li.menu{
+    width:25%;
+}
+
+ul.menu>li.menu>a, ul.submenu>li.submenu>a{
+    text-decoration: none;
+    color:white;
+    display:block;
+    text-align: center;
+    padding: 0.87em 1em;
+   
+}
+a.submenu:hover{
+    background-color: grey;  
+    animation: meniu 1s linear;
+}
+ul.menu>li.menu>ul.submenu{
+    position: relative;
+}
+ul.submenu>li.submenu{
+    width:100%;
+}
+ul.menu>li.menu:hover{
+    overflow:visible;
+}
+ul.submenu>li.submenu>a.submenu:hover{
+    background-color: grey;  
+    animation: meniu 1s linear;
+}
+
+footer{
+    margin-top:5%;
+}
+h2.titlefooter{
+    margin:auto;
+    text-align:center;
+    color:black;
+}
+p.footer{
+    color:black;
+    text-align:left;
+    margin-top:1.2%;
+}
+p.emailtel{
+    color:black;
+    text-align:center;
+    margin-top:1.2%;
+}
+span.emailtel{
+    margin-left:1%;
+}
+p#copyright{
+    text-align:center;
+}
+a.link:hover{
+   color: grey;
+}

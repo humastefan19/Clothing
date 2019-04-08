@@ -1,0 +1,13 @@
+section{
+    float: left;
+    margin-top:2%;
+}
+
+div#ridicare, div#curier{
+    width:100%;
+    float:left;
+}
+
+a#cont1:hover, a#cont2:hover{
+    color:grey;
+}

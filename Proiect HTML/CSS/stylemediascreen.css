@@ -1,0 +1,40 @@
+@media screen and (max-width:900px)
+{
+    div#grid
+    {   display:grid;
+        grid-template-columns: 100%;
+        grid-gap: 1em;   
+    }
+    div#contact{
+        flex-direction: column;
+        width:100%;
+    }
+    div#contact2{
+        text-align: center;
+        width:100%;     
+    }
+    div#contact1{
+        width:99.4%;
+    }
+    div#grid::after{
+        content:"";
+        clear: both;
+        display:block;
+        visibility: hidden;
+        font-size:0;
+        height: 0;
+    }
+    ul.menu>li.menu>ul.submenu>li.submenu{
+        height: 10%;
+    }
+}
+@media screen and (max-width:450px)
+{
+    
+    ul.menu li.menu{
+        display:block;
+        float:left;
+        width:100%;
+    }
+
+}

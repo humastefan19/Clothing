@@ -1,0 +1,100 @@
+<table>
+            <thead>
+                <tr>
+                    <th colspan="3"><p>Produse Noi<p></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>tricou</p>
+                    </td>
+                    <td>
+                        <p>pulover</p>
+                    </td>
+                    <td>
+                        <p>jeans</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+table{
+    width:87%;
+    border-collapse: collapse;
+    float:left;
+}
+
+tr th p{
+    margin: auto;
+    text-align:center;
+}
+tbody tr{
+    border:2px solid black;
+    height: 40%;
+}
+tr td{
+    border:2px solid black;
+    width:26%;
+}
+td p{
+    text-align:center;
+}
+
+li.horizontal
+{
+    float:left;
+    width: 12%;
+}
+li a.horizontal
+{
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+}
+li a:hover.horizontal{
+    background-color: grey;
+}
+ul.horizontal{
+    
+    
+    padding:0
+}
+ul.horizontal>li.horizontal , ul.horizontal>li.horizontal>ul.submenu>li.submenu{
+    /*display:block;*/
+    font-size:16px;
+    height:2.9rem;
+    list-style-type:none;
+    overflow:hidden;
+    padding:0px;
+    margin:0px;
+    background-color: black;
+    width: 100%;
+    
+}
+
+ul.horizontal>li.horizontal>a, ul.submenu>li.submenu>a{
+    text-decoration: none;
+    color:white;
+    display:block;
+    text-align: center;
+    padding: 14px 16px;
+    height:	100%;
+}
+a.submenu:hover{
+    background-color: grey;
+}
+ul.horizontal>li.horizontal>ul.submenu{
+    position:relative;
+    top:0px;
+}
+
+ul.submenu>li.submenu{
+    width:100%;
+    margin:0;
+}
+ul.horizontal>li.horizontal:hover{
+    overflow:visible;
+}
+ul.horizontal>li.horizontal>a.submenu:hover, ul.submenu>li.submenu>a.submenu:hover{
+    background:grey;
+}

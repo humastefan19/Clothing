@@ -1,0 +1,35 @@
+div#contact{
+    display:flex;
+    width:100%;
+}
+div#contact1{
+    order:1;
+    width:50%;
+    margin-right:2%;
+}
+div#contact2{
+    order:2;
+    width:50%;
+}
+img{
+    width:100%;
+    margin-top:2%;
+    border:0.125rem solid black;
+}
+p#contactadresa, p#contacttelefon, p#contactemail{
+    font-size: 2em;
+}
+span{
+    margin-left:1%;
+}
+table{
+    border-collapse: collapse;
+    width:100%;
+    text-align: center;
+}
+thead tr th{
+    border:0.125rem solid black;
+}
+tbody tr td{
+    border:0.125rem solid black;
+}

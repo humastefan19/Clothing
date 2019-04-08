@@ -1,0 +1,12 @@
+
+div#acasaDIV1, div#acasaDIV2{
+    display: block;
+    margin-top:2%;
+}
+p#acasa{
+    text-align: justify;
+}
+h2#titluacasa1 , h2#titluacasa2{
+
+    text-align:center;
+}

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<produse>
+      <produs title="tricou">
+         <Categorie>Barbati</Categorie>
+         <Tip>Tricou</Tip>
+         <Imagine>./Imagini/tricou.jpg</Imagine>
+         <Pret>20</Pret>
+         <Marime>S</Marime>
+         <Stare>Uzat</Stare>
+      </produs>
+      <produs title="pulover">
+         <Categorie>Barbati</Categorie>
+         <Tip>Pulover</Tip>
+         <Imagine>./Imagini/pulover.jpg</Imagine>
+         <Pret>40</Pret>
+         <Marime>M</Marime> 
+         <Stare>Uzat</Stare>
+      </produs>
+      <produs title="jeans">
+         <Categorie>Barbati</Categorie>
+         <Tip>Jeans</Tip>
+         <Imagine>./Imagini/jeans.jpg</Imagine>
+         <Pret>35</Pret>
+         <Marime>38</Marime>
+         <Stare>Uzat</Stare>
+      </produs>
+      <produs title="pantaloni scurti">
+         <Categorie>Barbati</Categorie>
+         <Tip>Pantaloni Scurti</Tip>
+         <Imagine>./Imagini/pantaloniscurti.jpg</Imagine>
+         <Pret>30</Pret>
+         <Marime>40</Marime>
+         <Stare>Nou</Stare>
+      </produs>
+      <produs title="camasa">
+         <Categorie>Barbati</Categorie>
+         <Tip>Camasa</Tip>
+         <Imagine>./Imagini/camasa.jpg</Imagine>
+         <Pret>50</Pret>
+         <Marime>M</Marime>
+         <Stare>Uzat</Stare>
+      </produs>
+      <produs title="jacheta">
+         <Categorie>Barbati</Categorie>
+         <Tip>Jacheta</Tip>
+         <Imagine>./Imagini/jacheta.jpg</Imagine>
+         <Pret>75</Pret>
+         <Marime>S</Marime>
+         <Stare>Nou</Stare>
+      </produs>
+      <produs title="rochie">
+         <Categorie>Femei</Categorie>
+         <Tip>Rochie</Tip>
+         <Imagine>./Imagini/rochie.jpg</Imagine>
+         <Pret>100</Pret>
+         <Marime>38</Marime>
+         <Stare>Nou</Stare>
+      </produs>
+      <produs title="sacou">
+         <Categorie>Femei</Categorie>
+         <Tip>Sacou</Tip>
+         <Imagine>./Imagini/sacou.jpg</Imagine>
+         <Pret>85</Pret>
+         <Marime>S</Marime>
+         <Stare>Nou</Stare>
+      </produs>
+      <produs title="bluza">
+         <Categorie>Femei</Categorie>
+         <Tip>Bluza</Tip>
+         <Imagine>./Imagini/bluza.jpg</Imagine>
+         <Pret>40</Pret>
+         <Marime>S</Marime>
+         <Stare>Uzat</Stare>     
+      </produs>
+      <produs title="fusta">
+         <Categorie>Femei</Categorie>
+         <Tip>Fusta</Tip>
+         <Imagine>./Imagini/fusta.jpg</Imagine>
+         <Pret>60</Pret>
+         <Marime>36</Marime>
+         <Stare>Nou</Stare>
+      </produs>
+      <produs title="pantaloni">
+         <Categorie>Femei</Categorie>
+         <Tip>Pantaloni</Tip>
+         <Imagine>./Imagini/pantaloni.jpg</Imagine>
+         <Pret>65</Pret>
+         <Marime>40</Marime>
+         <Stare>Uzat</Stare>
+      </produs>
+      <produs title="puloverF">
+         <Categorie>Femei</Categorie>
+         <Tip>Pulover</Tip>
+         <Imagine>./Imagini/puloverf.jpg</Imagine>
+         <Pret>35</Pret>
+         <Marime>M</Marime>
+         <Stare>Uzat</Stare>
+      </produs>
+      <produs title="sapca">
+         <Categorie>Accesori</Categorie>
+         <Tip>Sapca</Tip>
+         <Imagine>./Imagini/sapca.jpg</Imagine>
+         <Pret>25</Pret>
+         <Marime>Universala</Marime>
+         <Stare>Nou</Stare>
+      </produs>
+      <produs title="manusi">
+         <Categorie>Accesori</Categorie>
+         <Tip>Manusi de piele</Tip>
+         <Imagine>./Imagini/manusidinpieledame.jpg</Imagine>
+         <Pret>40</Pret>
+         <Marime>Universala</Marime>
+         <Stare>Uzat</Stare>
+      </produs>
+      <produs title="geanta">
+         <Categorie>Accesori</Categorie>
+         <Tip>Geanta</Tip>
+         <Imagine>./Imagini/geanta.jpg</Imagine>
+         <Pret>60</Pret>
+         <Marime>Universala</Marime>
+         <Stare>Uzat</Stare>
+      </produs>
+      <produs title="ochelari">
+         <Categorie>Accesori</Categorie>
+         <Tip>Ochelari de soare</Tip>
+         <Imagine>./Imagini/ochelaridesoare.jpg</Imagine>
+         <Pret>15</Pret>
+         <Marime>Universala</Marime>
+         <Stare>Uzat</Stare>
+      </produs>
+      <produs title="esarfa">
+         <Categorie>Accesori</Categorie>
+         <Tip>Esarfa</Tip>
+         <Imagine>./Imagini/esarfadame.jpg</Imagine>
+         <Pret>20</Pret>
+         <Marime>Universala</Marime>
+         <Stare>Nou</Stare>
+      </produs>
+      <produs title="curea">
+         <Categorie>Accesori</Categorie>
+         <Tip>Curea</Tip>
+         <Imagine>./Imagini/cureabarbateasca.jpg</Imagine>
+         <Pret>70</Pret>
+         <Marime>Universala</Marime>
+         <Stare>Nou</Stare>
+         
+      </produs>
+</produse>

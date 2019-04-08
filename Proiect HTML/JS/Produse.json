@@ -1,0 +1,24 @@
+{
+    "produse":
+    [
+        {"Categorie":"Barbatii" , "Tip":"Tricou", "Pret":"20", "Marime": "S", "Stare":"Uzat"},
+        {"Categorie":"Barbatii" , "Tip":"Pulover", "Pret":"40", "Marime": "M", "Stare":"Uzat"},
+        {"Categorie":"Barbatii" , "Tip":"Jeans", "Pret":"35", "Marime": "38", "Stare":"Uzat"},
+        {"Categorie":"Barbatii" , "Tip":"Pantaloni Scurti", "Pret":"30", "Marime": "40", "Stare":"Nou"},
+        {"Categorie":"Barbatii" , "Tip":"Camasa", "Pret":"50", "Marime": "M", "Stare":"Uzat"},
+        {"Categorie":"Barbatii" , "Tip":"Jacheta", "Pret":"75", "Marime": "S", "Stare":"Nou"},
+        {"Categorie":"Femei", "Tip":"Rochie", "Pret":"100", "Marime":"38", "Stare":"Nou"},
+        {"Categorie":"Femei", "Tip":"Sacou", "Pret":"85", "Marime":"S", "Stare":"Nou"},
+        {"Categorie":"Femei", "Tip":"Bluza", "Pret":"40", "Marime":"S", "Stare":"Uzat"},
+        {"Categorie":"Femei", "Tip":"Fusta", "Pret":"60", "Marime":"36", "Stare":"Nou"},
+        {"Categorie":"Femei", "Tip":"Pantaloni", "Pret":"65", "Marime":"40", "Stare":"Uzat"},
+        {"Categorie":"Femei", "Tip":"Pulover", "Pret":"35", "Marime":"M", "Stare":"Uzat"},
+        {"Categorie":"Accesori", "Tip":"Sapca", "Pret":"25", "Stare":"Nou"},
+        {"Categorie":"Accesori", "Tip":"Manusi de piele", "Pret":"40", "Stare":"Uzat"},
+        {"Categorie":"Accesori", "Tip":"Geanta", "Pret":"60", "Stare":"Uzat"},
+        {"Categorie":"Accesori", "Tip":"Ochelari de soare", "Pret":"15", "Stare":"Uzat"},
+        {"Categorie":"Accesori", "Tip":"Esarfa", "Pret":"20", "Stare":"Nou"},
+        {"Categorie":"Accesori", "Tip":"Curea", "Pret":"70", "Stare":"Nou"}
+
+    ]
+}
